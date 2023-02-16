@@ -26,6 +26,7 @@ APIs -
         - Type: String 
         - Default: A4 
         - Description: User can provide custom page size in inches. If not provided, it'll take A4 page size as default size.
+        - Sample Input: 10,10 / 12.35, 16.12
 
     b. collate 
         - Type: Boolean 
